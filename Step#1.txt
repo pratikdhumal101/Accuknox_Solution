@@ -1,0 +1,2 @@
+Expected CTC:5 LPA
+Notice period:immediate
